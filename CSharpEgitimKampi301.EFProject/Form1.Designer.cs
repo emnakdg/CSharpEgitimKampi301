@@ -76,7 +76,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(361, 31);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(661, 279);
+            this.dataGridView1.Size = new System.Drawing.Size(685, 279);
             this.dataGridView1.TabIndex = 3;
             // 
             // txtRehberAd
@@ -173,7 +173,7 @@
             this.Controls.Add(this.txtRehberId);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Rehber İşlemleri";
             this.Load += new System.EventHandler(this.Form1_Load);
