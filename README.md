@@ -1,4 +1,4 @@
-#Istatistikler
+# Istatistikler
 Bu istatistik ekranı, C# eğitim kampı kapsamında Entity Framework metodları ve LINQ sorguları kullanılarak hazırlanmıştır. Projede, veritabanından veri çekme, gruplama, sıralama ve filtreleme işlemleri için LINQ sorguları kullanılmıştır. 
 Örneğin, toplam kapasite ve ortalama kapasite hesaplamaları için Sum, Average gibi metodlar; en pahalı tur gibi kriter bazlı sorgular için FirstOrDefault metodları kullanılmıştır. 
 Ayrıca, veritabanına eklenen son ülkenin alınması için Max metodu tercih edilmiştir. 
